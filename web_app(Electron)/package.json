@@ -1,0 +1,37 @@
+{
+  "name": "memory",
+  "version": "1.0.0",
+  "author": "Skylepaf",
+  "description": "Memory - Jeu de memory",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^35.0.0",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "com.memory.app",
+    "productName": "Memory",
+    "files": [
+      "index.js",
+      "index.html",
+      "audio/**/*",
+      "css/**/*",
+      "font/**/*",
+      "images/**/*",
+      "script/**/*"
+    ],
+    "linux": {
+      "target": ["AppImage"],
+      "icon": "icon.png",
+      "category": "Game"
+    },
+    "win": {
+      "target": ["nsis"],
+      "icon": "icon.ico"
+    }
+  }
+}
