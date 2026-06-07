@@ -7,6 +7,11 @@ Built entirely in vanilla HTML/CSS/JS — no framework, no game engine.
 
 *Built in early 2024.*
 
+[▶ Play Online](https://skylepaf.github.io/The-Memory/web_browser/index.html)
+
+> Browser version: zoom in (Ctrl +) for the best experience.  
+> For the best experience, run the Electron version.
+
 ---
 
 ## Screenshots
