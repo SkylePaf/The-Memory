@@ -20,7 +20,7 @@ Built entirely in vanilla HTML/CSS/JS — no framework, no game engine.
 |---|---|
 | ![main](screenshots/malus1.png) | ![badeffect1](screenshots/malus2.png) |
 
-| Reward 1 — Completing extra table | Reward — Minus 4 squares |
+| Reward 1 — Completing extra table | Reward 2 — Minus 4 squares |
 |---|---|
 | ![badeffect2](screenshots/reward.png) | ![win](screenshots/help2.png) |
 
